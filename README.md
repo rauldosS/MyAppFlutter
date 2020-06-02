@@ -1,8 +1,34 @@
-# myapp
+# MyApp in Flutter
 
 A new Flutter project.
 
+## About this Project
+
+The idea of the App is:
+
+**PS.**
+
+## Why?
+
+This project is part of my personal portfolio, so, I'II be happy if you could provide me any feedback about the project, code, structre or anything that you can report that chould make me a better developer!
+
+E-mail: rauldosS.moraes@gmail.com
+Connect with me at LinkedIn.
+
+Also, you can use this Project as you wish,, be for study, be for make improvements or earn money with it!
+
+It's free!
+
+## Some Observations about this App
+
+## Installers
+
+## Functionalities
+
 ## Getting Started
+
+### Prerequisites
+###  Installing
 
 This project is a starting point for a Flutter application.
 
